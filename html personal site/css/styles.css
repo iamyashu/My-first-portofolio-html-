@@ -1,0 +1,31 @@
+body{
+  background-color: #e4f9ff;
+  margin:0;
+
+  
+}
+h1{
+  color:#1d1b38;
+  font-style: italic;
+  font-size: 40px;
+}
+h3{
+  color:#1d1b38;
+}
+hr{
+  background-color:#e4f9ff;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 4%;
+}
+
+/*
+ classes usage -> use "."
+.first{
+  background-color: black;
+}
+.second{
+  background-color: red;
+}
+*/

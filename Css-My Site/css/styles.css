@@ -1,0 +1,41 @@
+body{
+  background-color: #4b5d67;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1{
+  color: #b2ebf2;
+  margin:0 auto 0 auto;
+
+
+}
+p {
+  color: #b2ebf2;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.matter
+{
+  position: relative;
+  bottom:200px;
+  padding-top: 100px;
+}
+
+.second{
+  position:relative;
+  bottom:240px;
+}
+
+.first
+{
+  position: relative;
+  left:300px;
+}
+
+.third
+{
+  position: relative;
+  right:200px;
+
+
+}
